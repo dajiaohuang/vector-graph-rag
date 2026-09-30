@@ -239,7 +239,7 @@ VGRAG_MILVUS_URI=http://localhost:19530
 
 </details>
 
-> 📖 Full Python API reference → [Python API docs](https://zilliztech.github.io/vector-graph-rag/python-api/)
+> 📖 Full Python API reference → [Python API docs](https://zilliztech.github.io/vector-graph-rag/reference/python-api/)
 
 ## 🔬 How It Works
 
